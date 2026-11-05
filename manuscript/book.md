@@ -9,6 +9,6 @@ Obwohl dieses Buch mit großer Sorgfalt produziert wurde, übernehmen Autor, Her
 
 Kontaktieren Sie +34-624419643 oder info@frontenddogma.com für Fragen und weitere Informationen.
 
-Folgen Sie [Frontend Dogma auf Mastodon](https://mas.to/@frontenddogma) ([und anderen Netzwerken](https://frontenddogma.com/posts/2024/frontend-dogma-on-the-web/)).
+Folgen Sie [dxsrc auf Mastodon](https://mas.to/@dxsrc) ([und anderen Netzwerken](https://dxsrc.org/posts/2024/frontend-dogma-on-the-web/)).
 
-[1.4.7]
+[1.4.8]
