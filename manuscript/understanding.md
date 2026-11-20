@@ -13,7 +13,7 @@ Das [Pure-Framework](https://purecss.io/) kennt beispielsweise die folgenden But
 
 »Funktionalität« bezieht sich normalerweise auf Darstellung und Präsentation (das Styling über CSS) und manchmal auch auf Verhalten (Scripting über JavaScript).
 
-Der Vorteil, eine solche Bibliothek zu verwenden, besteht darin, dass wir diese Funktionalität nicht selbst schreiben müssen, oder so wiederholt tun müssen. Wir folgen statt dessen den Anweisungen der Bibliothek, was die Struktur anbelangt (Markup über HTML).
+Der Vorteil, eine solche Bibliothek zu verwenden, besteht darin, dass wir diese Funktionalität nicht selbst schreiben müssen, oder so wiederholt tun müssen. Wir folgen stattdessen den Anweisungen der Bibliothek, was die Struktur anbelangt (Markup über HTML).
 
 So erfordert beispielsweise [YAML](http://www.yaml.de/) den folgenden HTML-Code für ein horizontales Navigationsmenü:
 

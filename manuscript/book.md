@@ -11,4 +11,4 @@ Kontaktieren Sie +34-624419643 oder info@dxsrc.org für Fragen und weitere Infor
 
 Folgen Sie [dxsrc auf Mastodon](https://mas.to/@dxsrc) ([und anderen Netzwerken](https://dxsrc.org/posts/2024/frontend-dogma-on-the-web/)).
 
-[1.4.9]
+[1.4.10]
